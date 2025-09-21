@@ -1,33 +1,32 @@
-# ¡Hola! 👋 Soy Pablo González González
+# Hi! 👋 I'm Pablo González González
 
-🎓 Estudio **Desarrollo de Aplicaciones Web** en el **IES Playa Mar** en Torremolinos, Málaga.  
-🎂 Tengo 18 años y me encanta aprender cosas nuevas cada día.  
-💌 Contacto: [pablitosgg66.com](mailto:pablitosgg66.com)
-
----
-
-## 🌟 Sobre mí
-Soy una persona **extrovertida y comunicativa**. Me gusta **trabajar en equipo**, **ayudar a los demás** y enfrentarme a **nuevos desafíos**.  
-Me apasionan los **videojuegos**, el **fútbol** (soy fanático del **FC Barcelona**) y todo lo relacionado con la **seguridad informática** y la **inteligencia artificial**.  
+🎓 I'm studying **Web Application Development** at **IES Playa Mar** in Torremolinos, Málaga.  
+🎂 I'm 18 years old and I love learning new things every day.  
+💌 Contact: [pablitosgg66.com](mailto:pablitosgg66.com)
 
 ---
 
-## 🛠 Habilidades y conocimientos
-- 💻 Desarrollo web: HTML, CSS, JavaScript  
-- 🌐 Idiomas: Inglés B1 (ahora sacándome el B2)  
-- 🚑 Curso de socorrista y experiencia en distintos trabajos  
-- 🧠 Seguridad e Inteligencia Artificial (me interesa muchísimo)  
-- 🗣 Comunicación y trabajo en equipo  
-- 🏆 Capacidad para enfrentar retos y aprender rápido
+## 🌟 About me
+I'm an **outgoing and communicative** person. I enjoy **working in teams**, **helping others**, and facing **new challenges**.  
+I'm passionate about **video games**, **football** (huge fan of **FC Barcelona**) and everything related to **cybersecurity** and **artificial intelligence**.  
 
 ---
 
-## 🎮 Cosas que me gustan
-- ⚽ Fútbol (FC Barcelona)  
-- 🎮 Videojuegos  
-- 🧩 Resolver problemas y aprender nuevas tecnologías  
+## 🛠 Skills and knowledge
+- 🌐 Languages: English B1 (currently working on B2)  
+- 🚑 Lifeguard certified and experience in different jobs  
+- 🧠 Cybersecurity and Artificial Intelligence (very interested)  
+- 🗣 Communication and teamwork  
+- 🏆 Problem-solving and fast learning
 
 ---
 
-## 🔗 Contacto
-- 📧 Email: [pablitosgg66.com](mailto:pablitosgg66.com)
+## 🎮 Things I like
+- ⚽ Football (FC Barcelona)  
+- 🎮 Video games  
+- 🧩 Solving problems and learning new technologies  
+
+---
+
+## 🔗 Contact
+- 📧 Email: [pablitosgg66.com](mailto:pablitosgg66.com)  
