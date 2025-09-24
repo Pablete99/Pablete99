@@ -2,7 +2,7 @@
 
 🎓 I'm studying **Web Application Development** at **IES Playa Mar** in Torremolinos, Málaga.  
 🎂 I'm 18 years old and I love learning new things every day.  
-💌 Contact: [pablitosgg66.com](mailto:pablitosgg66.com)
+💌 Contact: [pablitosgg63@gmail.com](mailto:pablitosgg63@gmail.com)
 
 ---
 
