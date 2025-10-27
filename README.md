@@ -1,32 +1,62 @@
-# Hi! 👋 I'm Pablo González González
+# 👋 Hi there! I'm Pablo González González
 
-🎓 I'm studying **Web Application Development** at **IES Playa Mar** in Torremolinos, Málaga.  
-🎂 I'm 18 years old and I love learning new things every day.  
-💌 Contact: [pablitogg63@gmail.com](mailto:pablitogg63@gmail.com)
-
----
-
-## 🌟 About me
-I'm an **outgoing and communicative** person. I enjoy **working in teams**, **helping others**, and facing **new challenges**.  
-I'm passionate about **video games**, **football** (huge fan of **FC Barcelona**) and everything related to **cybersecurity** and **artificial intelligence**.  
+🎓 **Web Application Development student** at [IES Playamar](https://www.iesplayamar.es/), Torremolinos (Málaga, Spain).  
+💡 Passionate about **technology, cybersecurity, and artificial intelligence**.  
+📩 **Contact:** [pablitogg63@gmail.com](mailto:pablitogg63@gmail.com)
 
 ---
 
-## 🛠 Skills and knowledge
-- 🌐 Languages: English B1 (currently working on B2)  
-- 🚑 Lifeguard certified and experience in different jobs  
-- 🧠 Cybersecurity and Artificial Intelligence (very interested)  
-- 🗣 Communication and teamwork  
-- 🏆 Problem-solving and fast learning
+## 🚀 About Me
+I'm a curious and motivated developer currently studying to become a **full-stack web developer**.  
+I love learning new technologies, solving complex problems, and working on real projects that make a difference.  
+
+My goal is to grow as a professional in **software development**, while exploring fields like **cybersecurity**, **AI**, and **cloud computing**.
 
 ---
 
-## 🎮 Things I like
-- ⚽ Football (FC Barcelona)  
-- 🎮 Video games  
-- 🧩 Solving problems and learning new technologies  
+## 🧰 Tech Stack (in progress)
+As a first-year student, I’m currently learning and practicing the core tools of modern web development:
+
+- 🌐 **Frontend:** HTML5, CSS3, JavaScript  
+- ⚙️ **Backend:** Java, PHP, Node.js (soon)  
+- 🗄️ **Databases:** MySQL, SQLite  
+- 🧩 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+- 🔒 **Exploring:** Cybersecurity fundamentals, AI basics  
 
 ---
 
-## 🔗 Contact
-- 📧 Email: [pablitosgg66.com](mailto:pablitosgg66.com)  
+## 💪 Soft Skills
+- 🧠 Problem-solving & analytical thinking  
+- 🤝 Teamwork & communication  
+- 🚀 Adaptability & fast learning  
+- 🧩 Initiative & creativity  
+
+---
+
+## 🌱 Currently Learning
+Right now, in the first module of **GitHub and version control**, I’m learning to:
+- Create and manage repositories  
+- Use branches, commits, and pull requests  
+- Collaborate on projects using GitHub  
+- Document and maintain professional profiles like this README  
+- Apply Markdown for clean, readable documentation  
+
+This profile will evolve as I grow and add more projects from my coursework and personal development.
+
+---
+
+## 🎯 Goals for 2025
+- Build and publish my first **full-stack web project**  
+- Deepen my knowledge in **JavaScript frameworks** (React / Vue)  
+- Learn the basics of **ethical hacking** and **AI integration** in web apps  
+- Contribute to **open-source** projects on GitHub  
+
+---
+
+## ⚡ Fun fact
+When I'm not coding, I enjoy sports (⚽), gaming 🎮, and learning new tech skills.  
+Technology and teamwork inspire me to keep improving every day.
+
+---
+
+⭐️ _“Learning never exhausts the mind.” – Leonardo da Vinci_ 
