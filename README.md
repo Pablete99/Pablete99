@@ -8,7 +8,7 @@
 
 ## 🧠 About Me  
 Developer with an obsession for building, breaking, and understanding how things work.  
-I enjoy learning technologies a lo “*deep dive mode*”, crear proyectos que me obliguen a pensar, y experimentar con ideas raras que acaben convirtiéndose en algo útil.
+I enjoy learning technologies a lo “*deep dive mode*”, creating projects that make me think, and experimenting with weird ideas that end up being useful.
 
 Siempre estoy jugando con conceptos de IA, seguridad, optimización de código y automatización.  
 Mi objetivo: convertirme en un full-stack developer con mentalidad hacker 🕶️ y enfoque creativo.
@@ -17,34 +17,55 @@ Mi objetivo: convertirme en un full-stack developer con mentalidad hacker 🕶�
 
 ## 🛠️ Tech Stack (growing every day)
 
-### 🌐 Frontend
+<details>
+<summary>🌐 Frontend</summary>
+
 - HTML5 / Semantic web  
 - CSS3, Flexbox & Grid  
 - JavaScript (ES6+)  
 
-### ⚙️ Backend
+</details>
+
+<details>
+<summary>⚙️ Backend</summary>
+
 - Java  
 - PHP  
 - Node.js *(soon)*  
 
-### 🗄️ Databases
+</details>
+
+<details>
+<summary>🗄️ Databases</summary>
+
 - MySQL  
 - SQLite  
 
-### 🧪 Tools & Workflow
+</details>
+
+<details>
+<summary>🧪 Tools & Workflow</summary>
+
 - Git & GitHub (branching, PRs, issues, workflows)  
 - VS Code / IntelliJ IDEA  
 - Markdown para documentación limpia  
 - Automatización básica con scripts  
 
-### 🔒 Currently Exploring
+</details>
+
+<details>
+<summary>🔒 Currently Exploring</summary>
+
 - Cybersecurity fundamentals  
 - IA aplicada al desarrollo  
 - Linux, terminal ninja skills 🐧  
 
+</details>
+
 ---
 
 ## 💡 Soft Skills (dev edition)
+
 - 🧠 Pensamiento analítico (debugging enjoyer)  
 - 🤝 Comunicación y trabajo en equipo  
 - ⚡ Aprendizaje rápido + curiosidad enfermiza  
@@ -53,6 +74,7 @@ Mi objetivo: convertirme en un full-stack developer con mentalidad hacker 🕶�
 ---
 
 ## 🌱 What I’m Learning *Right Now*
+
 - Crear y gestionar repos de manera profesional  
 - Buenas prácticas de Git (ramas, commits limpios, PRs descriptivos)  
 - Mantener perfiles de GitHub cuidados  
@@ -62,6 +84,7 @@ Mi objetivo: convertirme en un full-stack developer con mentalidad hacker 🕶�
 ---
 
 ## 🎯 Goals for 2025
+
 - Publicar mi primer proyecto full-stack  
 - Meterme de lleno en React o Vue  
 - Aprender fundamentos de *ethical hacking*  
@@ -75,7 +98,17 @@ Cuando no estoy picando código, estoy entre fútbol ⚽, gaming 🎮 o aprendie
 
 ---
 
+## 🔗 Connect with me
+<p align="center">
+  <a href="https://github.com/Pablete99" target="_blank">🐱 GitHub</a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pablo-gonzalez" target="_blank">💼 LinkedIn</a> &nbsp; | &nbsp;
+  <a href="mailto:pablo@example.com" target="_blank">✉️ Email</a>
+</p>
+
+---
+
 <p align="center">
   ⭐️ “Learning never exhausts the mind.” – Leonardo da Vinci  
 </p>
+
 
