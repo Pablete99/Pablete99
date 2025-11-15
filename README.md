@@ -74,9 +74,9 @@ My goal: become a full-stack developer with a hacker mindset 🕶️ and a creat
 <p align="center">
   <a href="https://github.com/Pablete99" target="_blank">🐱 GitHub</a> &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/pablo-gonzalez" target="_blank">💼 LinkedIn</a> &nbsp; | &nbsp;
-  <a href="mailto:pablo@example.com" target="_blank">✉️ Email</a> &nbsp; | &nbsp;
-  <a href="https://www.instagram.com/pablete99" target="_blank">📸 Instagram</a> &nbsp; | &nbsp;
-  <a href="https://www.tiktok.com/@pablete99" target="_blank">🎵 TikTok</a>
+  <a href="mailto:pablitogg63@gmail.com" target="_blank">✉️ Email</a> &nbsp; | &nbsp;
+  <a href="https://www.instagram.com/pablitogg8" target="_blank">📸 Instagram</a> &nbsp; | &nbsp;
+  <a href="https://www.tiktok.com/@phoekito8" target="_blank">🎵 TikTok</a>
 </p>
 
 ---
