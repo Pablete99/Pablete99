@@ -1,62 +1,81 @@
-# 👋 Hi there! I'm Pablo González González
+<h1 align="center">👋 Hey! I'm Pablo González González</h1>
 
-🎓 **Web Application Development student** at [IES Playamar](https://www.iesplayamar.es/), Torremolinos (Málaga, Spain).  
-💡 Passionate about **technology, cybersecurity, and artificial intelligence**.  
-📩 **Contact:** [pablitogg63@gmail.com](mailto:pablitogg63@gmail.com)
-
----
-
-## 🚀 About Me
-I'm a curious and motivated developer currently studying to become a **full-stack web developer**.  
-I love learning new technologies, solving complex problems, and working on real projects that make a difference.  
-
-My goal is to grow as a professional in **software development**, while exploring fields like **cybersecurity**, **AI**, and **cloud computing**.
+<p align="center">
+  <b>Web Developer in progress · Tech Enthusiast · Cybersecurity Explorer</b>
+</p>
 
 ---
 
-## 🧰 Tech Stack (in progress)
-As a first-year student, I’m currently learning and practicing the core tools of modern web development:
+## 🧠 About Me  
+Developer with an obsession for building, breaking, and understanding how things work.  
+I enjoy learning technologies a lo “*deep dive mode*”, crear proyectos que me obliguen a pensar, y experimentar con ideas raras que acaben convirtiéndose en algo útil.
 
-- 🌐 **Frontend:** HTML5, CSS3, JavaScript  
-- ⚙️ **Backend:** Java, PHP, Node.js (soon)  
-- 🗄️ **Databases:** MySQL, SQLite  
-- 🧩 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
-- 🔒 **Exploring:** Cybersecurity fundamentals, AI basics  
+Siempre estoy jugando con conceptos de IA, seguridad, optimización de código y automatización.  
+Mi objetivo: convertirme en un full-stack developer con mentalidad hacker 🕶️ y enfoque creativo.
 
 ---
 
-## 💪 Soft Skills
-- 🧠 Problem-solving & analytical thinking  
-- 🤝 Teamwork & communication  
-- 🚀 Adaptability & fast learning  
-- 🧩 Initiative & creativity  
+## 🛠️ Tech Stack (growing every day)
+
+### 🌐 Frontend
+- HTML5 / Semantic web  
+- CSS3, Flexbox & Grid  
+- JavaScript (ES6+)  
+
+### ⚙️ Backend
+- Java  
+- PHP  
+- Node.js *(soon)*  
+
+### 🗄️ Databases
+- MySQL  
+- SQLite  
+
+### 🧪 Tools & Workflow
+- Git & GitHub (branching, PRs, issues, workflows)  
+- VS Code / IntelliJ IDEA  
+- Markdown para documentación limpia  
+- Automatización básica con scripts  
+
+### 🔒 Currently Exploring
+- Cybersecurity fundamentals  
+- IA aplicada al desarrollo  
+- Linux, terminal ninja skills 🐧  
 
 ---
 
-## 🌱 Currently Learning
-Right now, in the first module of **GitHub and version control**, I’m learning to:
-- Create and manage repositories  
-- Use branches, commits, and pull requests  
-- Collaborate on projects using GitHub  
-- Document and maintain professional profiles like this README  
-- Apply Markdown for clean, readable documentation  
+## 💡 Soft Skills (dev edition)
+- 🧠 Pensamiento analítico (debugging enjoyer)  
+- 🤝 Comunicación y trabajo en equipo  
+- ⚡ Aprendizaje rápido + curiosidad enfermiza  
+- 🧩 Creatividad para resolver problemas de formas “no tradicionales”  
 
-This profile will evolve as I grow and add more projects from my coursework and personal development.
+---
+
+## 🌱 What I’m Learning *Right Now*
+- Crear y gestionar repos de manera profesional  
+- Buenas prácticas de Git (ramas, commits limpios, PRs descriptivos)  
+- Mantener perfiles de GitHub cuidados  
+- Documentación técnica en Markdown  
+- Organización de proyectos a nivel real (no solo “carpetas sueltas”)  
 
 ---
 
 ## 🎯 Goals for 2025
-- Build and publish my first **full-stack web project**  
-- Deepen my knowledge in **JavaScript frameworks** (React / Vue)  
-- Learn the basics of **ethical hacking** and **AI integration** in web apps  
-- Contribute to **open-source** projects on GitHub  
+- Publicar mi primer proyecto full-stack  
+- Meterme de lleno en React o Vue  
+- Aprender fundamentos de *ethical hacking*  
+- Integrar modelos de IA en aplicaciones web  
+- Colaborar en proyectos open-source  
 
 ---
 
-## ⚡ Fun fact
-When I'm not coding, I enjoy sports (⚽), gaming 🎮, and learning new tech skills.  
-Technology and teamwork inspire me to keep improving every day.
+## ⚡ Fun Fact  
+Cuando no estoy picando código, estoy entre fútbol ⚽, gaming 🎮 o aprendiendo alguna herramienta rara que luego uso para automatizar cosas inútiles… hasta que un día se vuelven útiles.
 
 ---
 
-⭐️ _“Learning never exhausts the mind.” – Leonardo da Vinci_ 
+<p align="center">
+  ⭐️ “Learning never exhausts the mind.” – Leonardo da Vinci  
+</p>
+
