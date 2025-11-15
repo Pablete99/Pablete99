@@ -7,111 +7,164 @@
 ---
 
 ## 🧠 About Me  
-Developer with an obsession for building, breaking, and understanding how things work.  
-I enjoy learning technologies a lo “*deep dive mode*”, creating projects that make me think, and experimenting with weird ideas that end up being useful.
+Developer obsessed with building, breaking, and understanding how things work.  
+I love learning technologies in *deep dive mode*, creating projects that make me think, and experimenting with quirky ideas that eventually turn useful.  
 
-Siempre estoy jugando con conceptos de IA, seguridad, optimización de código y automatización.  
-Mi objetivo: convertirme en un full-stack developer con mentalidad hacker 🕶️ y enfoque creativo.
+Always playing with AI concepts, security, code optimization, and automation.  
+My goal: become a full-stack developer with a hacker mindset 🕶️ and a creative approach.
 
 ---
 
 ## 🛠️ Tech Stack (growing every day)
 
-<details>
-<summary>🌐 Frontend</summary>
-
+### 🌐 Frontend
 - HTML5 / Semantic web  
 - CSS3, Flexbox & Grid  
 - JavaScript (ES6+)  
 
-</details>
-
-<details>
-<summary>⚙️ Backend</summary>
-
+### ⚙️ Backend
 - Java  
 - PHP  
 - Node.js *(soon)*  
 
-</details>
-
-<details>
-<summary>🗄️ Databases</summary>
-
+### 🗄️ Databases
 - MySQL  
 - SQLite  
 
-</details>
-
-<details>
-<summary>🧪 Tools & Workflow</summary>
-
+### 🧪 Tools & Workflow
 - Git & GitHub (branching, PRs, issues, workflows)  
 - VS Code / IntelliJ IDEA  
-- Markdown para documentación limpia  
-- Automatización básica con scripts  
+- Markdown for clean documentation  
+- Basic automation with scripts  
 
-</details>
-
-<details>
-<summary>🔒 Currently Exploring</summary>
-
+### 🔒 Currently Exploring
 - Cybersecurity fundamentals  
-- IA aplicada al desarrollo  
-- Linux, terminal ninja skills 🐧  
-
-</details>
+- AI applied to development  
+- Linux, ninja terminal skills 🐧  
 
 ---
 
 ## 💡 Soft Skills (dev edition)
-
-- 🧠 Pensamiento analítico (debugging enjoyer)  
-- 🤝 Comunicación y trabajo en equipo  
-- ⚡ Aprendizaje rápido + curiosidad enfermiza  
-- 🧩 Creatividad para resolver problemas de formas “no tradicionales”  
+- 🧠 Analytical thinking (debugging enjoyer)  
+- 🤝 Communication and teamwork  
+- ⚡ Fast learning + crazy curiosity  
+- 🧩 Creativity to solve problems in “non-traditional” ways  
 
 ---
 
 ## 🌱 What I’m Learning *Right Now*
-
-- Crear y gestionar repos de manera profesional  
-- Buenas prácticas de Git (ramas, commits limpios, PRs descriptivos)  
-- Mantener perfiles de GitHub cuidados  
-- Documentación técnica en Markdown  
-- Organización de proyectos a nivel real (no solo “carpetas sueltas”)  
+- Create and manage repositories professionally  
+- Git best practices (branches, clean commits, descriptive PRs)  
+- Maintain polished GitHub profiles  
+- Technical documentation in Markdown  
+- Organizing projects like a real pro (not just “loose folders”)  
 
 ---
 
 ## 🎯 Goals for 2025
+- Publish my first full-stack project  
+- Dive into React or Vue  
+- Learn ethical hacking fundamentals  
+- Integrate AI models into web applications  
+- Collaborate on open-source projects  
 
-- Publicar mi primer proyecto full-stack  
-- Meterme de lleno en React o Vue  
-- Aprender fundamentos de *ethical hacking*  
-- Integrar modelos de IA en aplicaciones web  
-- Colaborar en proyectos open-source  
+---
+
+<h1 align="center">👋 Hey! I'm Pablo González González</h1>
+
+<p align="center">
+  <b>Web Developer in progress · Tech Enthusiast · Cybersecurity Explorer</b>
+</p>
+
+---
+
+## 🧠 About Me  
+Developer obsessed with building, breaking, and understanding how things work.  
+I love learning technologies in *deep dive mode*, creating projects that make me think, and experimenting with quirky ideas that eventually turn useful.  
+
+Always playing with AI concepts, security, code optimization, and automation.  
+My goal: become a full-stack developer with a hacker mindset 🕶️ and a creative approach.
+
+---
+
+## 🛠️ Tech Stack (growing every day)
+
+### 🌐 Frontend
+- HTML5 / Semantic web  
+- CSS3, Flexbox & Grid  
+- JavaScript (ES6+)  
+
+### ⚙️ Backend
+- Java  
+- PHP  
+- Node.js *(soon)*  
+
+### 🗄️ Databases
+- MySQL  
+- SQLite  
+
+### 🧪 Tools & Workflow
+- Git & GitHub (branching, PRs, issues, workflows)  
+- VS Code / IntelliJ IDEA  
+- Markdown for clean documentation  
+- Basic automation with scripts  
+
+### 🔒 Currently Exploring
+- Cybersecurity fundamentals  
+- AI applied to development  
+- Linux, ninja terminal skills 🐧  
+
+---
+
+## 💡 Soft Skills (dev edition)
+- 🧠 Analytical thinking (debugging enjoyer)  
+- 🤝 Communication and teamwork  
+- ⚡ Fast learning + crazy curiosity  
+- 🧩 Creativity to solve problems in “non-traditional” ways  
+
+---
+
+## 🌱 What I’m Learning *Right Now*
+- Create and manage repositories professionally  
+- Git best practices (branches, clean commits, descriptive PRs)  
+- Maintain polished GitHub profiles  
+- Technical documentation in Markdown  
+- Organizing projects like a real pro (not just “loose folders”)  
+
+---
+
+## 🎯 Goals for 2025
+- Publish my first full-stack project  
+- Dive into React or Vue  
+- Learn ethical hacking fundamentals  
+- Integrate AI models into web applications  
+- Collaborate on open-source projects  
+
+---
+
+## 📱 Socials
+<p align="center">
+  <a href="https://www.instagram.com/tu_usuario" target="_blank">📸 Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@tu_usuario" target="_blank">🎵 TikTok</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact  
-Cuando no estoy picando código, estoy entre fútbol ⚽, gaming 🎮 o aprendiendo alguna herramienta rara que luego uso para automatizar cosas inútiles… hasta que un día se vuelven útiles.
-
----
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://github.com/Pablete99" target="_blank">🐱 GitHub</a> &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pablo-gonzalez" target="_blank">💼 LinkedIn</a> &nbsp; | &nbsp;
-  <a href="mailto:pablitogg63@gmail.com" target="_blank">✉️ Email</a> &nbsp; | &nbsp;
-  <a href="https://www.instagram.com/pablitogg8" target="_blank">📸 Instagram</a> &nbsp; | &nbsp;
-  <a href="https://www.tiktok.com/@phoekito8" target="_blank">🎵 TikTok</a>
-</p>
+When I'm not coding, I'm either playing soccer ⚽, gaming 🎮, or learning a weird tool that later I use to automate useless stuff… until one day it becomes useful.
 
 ---
 
 <p align="center">
   ⭐️ “Learning never exhausts the mind.” – Leonardo da Vinci  
 </p>
+
+
+---
+
+## ⚡ Fun Fact  
+When I'm not coding, I'm either playing soccer ⚽, gaming 🎮, or learning a weird tool that later I use to automate useless stuff… until one day it becomes useful.
+
 ---
 
 <p align="center">
