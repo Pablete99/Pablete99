@@ -41,6 +41,14 @@ Always playing with AI concepts, security, code optimization, and server-side ar
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pablete99/Pablete99/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.src='https://svg-badges.vercel.app/api/snake/Pablete99'" />
+</p>
+
+---
+
 ## 💡 Soft Skills (Dev Edition)
 - 🧠 **Analytical Thinking:** Debugging enjoyer — finding edge cases before they break production.
 - 🤝 **Collaboration:** Clear communication, teamwork, and active git-flow usage.
