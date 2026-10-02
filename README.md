@@ -55,11 +55,26 @@ Always playing with AI concepts, security, code optimization, and server-side ar
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 🎮 Activity & Contribution Graph
+
+<!-- Animación de la serpiente sobre tu calendario de contribuciones -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pablete99/Pablete99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- Calendario interactivo en 3D / Gráfico de actividad visual -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablete99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## ⚡ Daily Dev Quote
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablete99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablete99&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" />
 </p>
 
 ---
