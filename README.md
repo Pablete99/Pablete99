@@ -6,12 +6,6 @@
   <code>Full-Stack Developer in Progress</code> · <code>Tech Enthusiast</code> · <code>Cybersecurity Explorer</code>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Pablete99">
-    <img src="https://komarev.com/ghpvc/?username=Pablete99&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me  
@@ -47,20 +41,6 @@ Always playing with AI concepts, security, code optimization, and server-side ar
 
 ---
 
-## 🎮 Activity & Contribution Graph
-
-<!-- Serpiente animada automática comiéndose los cuadraditos del calendario -->
-<p align="center">
-  <img src="https://snk-badge.vercel.app/api/snk/Pablete99" alt="Snake Animation" />
-</p>
-
-<!-- Gráfico de actividad estilo neón/Tokio -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablete99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ## 💡 Soft Skills (Dev Edition)
 - 🧠 **Analytical Thinking:** Debugging enjoyer — finding edge cases before they break production.
 - 🤝 **Collaboration:** Clear communication, teamwork, and active git-flow usage.
@@ -69,19 +49,11 @@ Always playing with AI concepts, security, code optimization, and server-side ar
 
 ---
 
-## ⚡ Daily Dev Quote
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" />
-</p>
-
----
-
 ## 🎯 Current Focus & Learning Path
-- 🚀 Mastering advanced PHP (PDO, OOP design patterns, MVC architectures).
-- ⚙️ Professional repository management, Git branching models, and CI/CD basics.
-- 🔒 Exploring cybersecurity fundamentals & web application security (OWASP Top 10).
-- 🤖 Integrating AI tooling into daily developer workflows.
+- 🚀 **Advanced PHP:** Mastering PDO, OOP design patterns, and MVC architectures.
+- ⚙️ **Git Workflows:** Professional repository management, branching models, and clean commits.
+- 🔒 **Cybersecurity:** Exploring web application security fundamentals (OWASP Top 10).
+- 🤖 **AI Integration:** Applying AI tools directly into daily developer workflows.
 
 ---
 
