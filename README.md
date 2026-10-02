@@ -1,94 +1,99 @@
 <h1 align="center">👋 Hey! I'm Pablo González González</h1>
 
 <p align="center">
-  <b>Web Developer in progress · Tech Enthusiast · Cybersecurity Explorer</b>
+  <b>Higher Vocational Training Student in Web Application Development (2nd Year DAW)</b><br>
+  📍 <i>IES Playamar (Torremolinos, Spain)</i><br><br>
+  <code>Full-Stack Developer in Progress</code> · <code>Tech Enthusiast</code> · <code>Cybersecurity Explorer</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pablete99">
+    <img src="https://komarev.com/ghpvc/?username=Pablete99&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me  
-Developer obsessed with building, breaking, and understanding how things work.  
-I love learning technologies in *deep dive mode*, creating projects that make me think, and experimenting with quirky ideas that eventually turn useful.  
+Developer obsessed with building, breaking, and understanding how backend systems work under the hood.  
+I love learning technologies in *deep dive mode*, creating projects that push my problem-solving limits, and experimenting with quirky ideas that eventually turn into useful tools.  
 
-Always playing with AI concepts, security, code optimization, and automation.  
-My goal: become a full-stack developer with a hacker mindset 🕶️ and a creative approach.
-
----
-
-## 🛠️ Tech Stack (growing every day)
-
-### 🌐 Frontend
-- HTML5 / Semantic web  
-- CSS3, Flexbox & Grid  
-- JavaScript (ES6+)  
-
-### ⚙️ Backend
-- Java  
-- PHP  
-- Node.js *(soon)*  
-
-### 🗄️ Databases
-- MySQL  
-- SQLite  
-
-### 🧪 Tools & Workflow
-- Git & GitHub (branching, PRs, issues, workflows)  
-- VS Code / IntelliJ IDEA  
-- Markdown for clean documentation  
-- Basic automation with scripts  
-
-### 🔒 Currently Exploring
-- Cybersecurity fundamentals  
-- AI applied to development  
-- Linux, ninja terminal skills 🐧  
+Always playing with AI concepts, security, code optimization, and server-side architecture.  
+**My Goal:** Become a full-stack developer with a security-first mindset 🕶️ and a creative approach to software architecture.
 
 ---
 
-## 💡 Soft Skills (dev edition)
-- 🧠 Analytical thinking (debugging enjoyer)  
-- 🤝 Communication and teamwork  
-- ⚡ Fast learning + crazy curiosity  
-- 🧩 Creativity to solve problems in “non-traditional” ways  
+## 🛠️ Tech Stack & Skills
 
----
-
-## 🌱 What I’m Learning *Right Now*
-- Create and manage repositories professionally  
-- Git best practices (branches, clean commits, descriptive PRs)  
-- Maintain polished GitHub profiles  
-- Technical documentation in Markdown  
-- Organizing projects like a real pro (not just “loose folders”)  
-
----
-
-## 🎯 Goals for 2025
-- Publish my first full-stack project  
-- Dive into React or Vue  
-- Learn ethical hacking fundamentals  
-- Integrate AI models into web applications  
-- Collaborate on open-source projects  
-
----
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://github.com/Pablete99" target="_blank">🐱 GitHub</a> &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pablo-gonzalez" target="_blank">💼 LinkedIn</a> &nbsp; | &nbsp;
-  <a href="mailto:pablitogg63@gmail.com" target="_blank">✉️ Email</a> &nbsp; | &nbsp;
-  <a href="https://www.instagram.com/pablitogg8" target="_blank">📸 Instagram</a> &nbsp; | &nbsp;
-  <a href="https://www.tiktok.com/@phoekito8" target="_blank">🎵 TikTok</a>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <!-- Databases & Server -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-When I'm not coding, I'm either playing soccer ⚽, gaming 🎮, or learning a weird tool that later I use to automate useless stuff… until one day it becomes useful.
+## 💡 Soft Skills (Dev Edition)
+- 🧠 **Analytical Thinking:** Debugging enjoyer — finding edge cases before they break production.
+- 🤝 **Collaboration:** Clear communication, teamwork, and active git-flow usage.
+- ⚡ **High Adaptability:** Crazy curiosity and fast-paced learning of new frameworks/languages.
+- 🧩 **Creative Problem Solving:** Solving complex logical challenges with pragmatic, clean code.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablete99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablete99&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+## 🎯 Current Focus & Learning Path
+- 🚀 Mastering advanced PHP (PDO, OOP design patterns, MVC architectures).
+- ⚙️ Professional repository management, Git branching models, and CI/CD basics.
+- 🔒 Exploring cybersecurity fundamentals & web application security (OWASP Top 10).
+- 🤖 Integrating AI tooling into daily developer workflows.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Pablete99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pablo-gonzalez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pablitogg63@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pablitogg8" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐️ “Learning never exhausts the mind.” – Leonardo da Vinci  
+  ⚡ <i>"When I'm not coding, I'm either playing soccer ⚽, gaming 🎮, or automating useless stuff until it becomes useful."</i><br><br>
+  ⭐️ <b>"Learning never exhausts the mind."</b> – Leonardo da Vinci
 </p>
-
 
 
