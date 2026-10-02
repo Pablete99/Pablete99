@@ -47,27 +47,25 @@ Always playing with AI concepts, security, code optimization, and server-side ar
 
 ---
 
+## 🎮 Activity & Contribution Graph
+
+<!-- Serpiente animada automática comiéndose los cuadraditos del calendario -->
+<p align="center">
+  <img src="https://snk-badge.vercel.app/api/snk/Pablete99" alt="Snake Animation" />
+</p>
+
+<!-- Gráfico de actividad estilo neón/Tokio -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablete99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
 ## 💡 Soft Skills (Dev Edition)
 - 🧠 **Analytical Thinking:** Debugging enjoyer — finding edge cases before they break production.
 - 🤝 **Collaboration:** Clear communication, teamwork, and active git-flow usage.
 - ⚡ **High Adaptability:** Crazy curiosity and fast-paced learning of new frameworks/languages.
 - 🧩 **Creative Problem Solving:** Solving complex logical challenges with pragmatic, clean code.
-
----
-
----
-
-## 🎮 Activity & Contribution Graph
-
-<!-- Animación de la serpiente sobre tu calendario de contribuciones -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pablete99/Pablete99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<!-- Calendario interactivo en 3D / Gráfico de actividad visual -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablete99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 ---
 
@@ -110,5 +108,3 @@ Always playing with AI concepts, security, code optimization, and server-side ar
   ⚡ <i>"When I'm not coding, I'm either playing soccer ⚽, gaming 🎮, or automating useless stuff until it becomes useful."</i><br><br>
   ⭐️ <b>"Learning never exhausts the mind."</b> – Leonardo da Vinci
 </p>
-
-
